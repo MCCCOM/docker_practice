@@ -58,6 +58,7 @@ Docker 自身仍在快速发展中，生态环境也在蓬勃成长。源码开�
 ## 参加步骤
 * 在 GitHub 上 `fork` 到自己的仓库，如 `docker_user/docker_practice`，然后 `clone` 到本地，并设置用户信息。
 ```
+lala
 $ git clone git@github.com:docker_user/docker_practice.git
 $ cd docker_practice
 $ git config user.name "yourname"
